@@ -4,7 +4,7 @@
 require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-ethers");
 require("dotenv").config();
-
+// click here
 module.exports = {
   solidity: "0.8.20",
   networks: {
@@ -21,3 +21,4 @@ module.exports = {
     tests: "./test",
   },
 };
+
