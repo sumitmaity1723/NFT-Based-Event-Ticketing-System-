@@ -14,7 +14,7 @@ To revolutionize the ticketing industry by leveraging blockchain technology, ens
 
 ## Future Scope
 - ✅ **Ticket Resale Marketplace**: Allow peer-to-peer resale of NFT tickets with royalty to event organizers.
-- ✅ **Dynamic Pricing**: Implement variable pricing models based on demand.
+- ✅ **Dynamic Pricing**: Implement variable pricing models based on demand
 - ✅ **Multi-Event Support**: Enable multiple events within the same contract
 - ✅ **Integration with QR/Barcode**: For seamless event entry and verification
 
@@ -23,5 +23,6 @@ To revolutionize the ticketing industry by leveraging blockchain technology, ens
 
 
 ![alt text](image.png)
+
 
 
