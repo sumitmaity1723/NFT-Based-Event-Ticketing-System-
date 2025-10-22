@@ -1,5 +1,5 @@
 /**
- * @type import('hardhat/config').HardhatUserConfigg
+ * @type import('hardhat/config').HardhatUserConfig
  */
 require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-ethers");
@@ -21,3 +21,4 @@ module.exports = {
     tests: "./test",
   },
 };
+
