@@ -42,7 +42,7 @@ contract Project is ERC721URIStorage, Ownable {
         payable(eventOrganizer).transfer(address(this).balance);
     }
 
-    /// @notice Get event detail
+    /// @notice Get event details
     function getEventDetails()
         external
         view
@@ -57,6 +57,7 @@ contract Project is ERC721URIStorage, Ownable {
         );
     }
 }
+
 
 
 
