@@ -37,7 +37,7 @@ contract Project is ERC721URIStorage, Ownable {
         _setTokenURI(newTicketId, tokenURI);
     }
 
-    /// @notice Organizer can withdraw funds from ticket sales
+    /// @notice Organizer can withdraw funds from ticket sale
     function withdrawFunds() external onlyOwner {
         payable(eventOrganizer).transfer(address(this).balance);
     }
@@ -57,6 +57,7 @@ contract Project is ERC721URIStorage, Ownable {
         );
     }
 }
+
 
 
 
