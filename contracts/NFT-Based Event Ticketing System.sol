@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 /// @title NFT-Based Event Ticketing System
-/// @notice A simple contract to issue event tickets as NFTs
+/// @notice A simple contract to issue event tickets as NFT
 contract Project is ERC721URIStorage, Ownable {
     uint256 public ticketCounter;
     uint256 public maxTickets;
@@ -57,3 +57,4 @@ contract Project is ERC721URIStorage, Ownable {
         );
     }
 }
+
