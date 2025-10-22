@@ -25,7 +25,7 @@ contract Project is ERC721URIStorage, Ownable {
         ticketCounter = 0;
     }
 
-    /// @notice Mint a new ticket (NFT) for the events
+    /// @notice Mint a new ticket (NFT) for the event
     function buyTicket(string memory tokenURI) external payable {
         require(ticketCounter < maxTickets, "All tickets sold");
         require(msg.value == ticketPrice, "Incorrect payment amount");
@@ -57,5 +57,6 @@ contract Project is ERC721URIStorage, Ownable {
         );
     }
 }
+
 
 
