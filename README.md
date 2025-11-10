@@ -6,7 +6,7 @@ This project implements a blockchain-based event ticketing system where tickets 
 ## Project Vision
 To revolutionize the ticketing industry by leveraging blockchain technology, ensuring **fraud-free, transparent, and easily transferable** digital tickets for events.
 
-## Key Feature
+## Key Features
 -  **NFT Tickets**: Each ticket is minted as a unique NFT.
 -  **Direct Purchase**: Users can buy tickets directly from the organizer.
 -  **Secure Funds**: Event organizers can withdraw collected funds safely.
@@ -23,6 +23,7 @@ To revolutionize the ticketing industry by leveraging blockchain technology, ens
 
 
 ![alt text](image.png)
+
 
 
 
