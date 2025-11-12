@@ -1,6 +1,6 @@
 # NFT-Based Event Ticketing System
 
-## Project Description
+## Project Descriptions
 This project implements a blockchain-based event ticketing system where tickets are represented as **NFTs (ERC721 tokens)**. It ensures authenticity, prevents duplication, and enables transparent resale of tickets.
 
 ## Project Vision
@@ -23,6 +23,7 @@ To revolutionize the ticketing industry by leveraging blockchain technology, ens
 
 
 ![alt text](image.png)
+
 
 
 
