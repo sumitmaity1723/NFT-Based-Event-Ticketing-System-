@@ -12,7 +12,7 @@ To revolutionize the ticketing industry by leveraging blockchain technology, ens
 -  **Secure Funds**: Event organizers can withdraw collected funds safely.
 -  **Event Transparency**: Anyone can view event details on-chain.
 
-## Future Scope
+## Future Scopes
 -  **Ticket Resale Marketplace**: Allow peer-to-peer resale of NFT tickets with royalty to event organizers.
 -  **Dynamic Pricing**: Implement variable pricing models based on demand.
 -  **Multi-Event Support**: Enable multiple events within the same contract.
@@ -23,6 +23,7 @@ To revolutionize the ticketing industry by leveraging blockchain technology, ens
 
 
 ![alt text](image.png)
+
 
 
 
