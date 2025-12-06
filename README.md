@@ -18,11 +18,12 @@ To revolutionize the ticketing industry by leveraging blockchain technology, ens
 -  **Multi-Event Support**: Enable multiple events within the same contract.
 -  **Integration with QR/Barcode** : For seamless event entry and verification.
 
-## Contract Details
+## Contract Detail
 0x54Cd6Db8E18aBE4D9F375887F9245E83eA9031a4
 
 
 ![alt text](image.png)
+
 
 
 
